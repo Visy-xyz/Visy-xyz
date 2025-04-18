@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Visy-xyz
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Visy-xyz.;A+Passionate+Developer+%F0%9F%92%BB;Real+Madrid+is+the+Best+Club+in+the+World+%F0%9F%8F%86)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Visy-xyz.;A+Passionate+Developer+%F0%9F%92%BB;;Real+Madrid+is+the+Best+Club+in+the+World+%F0%9F%8F%86)](https://git.io/typing-svg)
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=Visy-xyz&style=flat-square&color=blue)
 
@@ -46,8 +46,8 @@
 - SQL Server + Advanced Database Stuff
 
 ### 🚀 Currently Working On
-- A Cat Image Generator App 🐱
-- Personal Portfolio using React + Tailwind
+- Flutter mobile app for Rental Cars!
+- Personal Portfolio 
 - Fun web mini-projects to level up 💡
 
 ---
@@ -70,8 +70,7 @@
 ### 🎉 Fun Facts
 - 🐱 I love cats and code
 - ⚽ Real Madrid is the best club in the world – Hala Madrid!
-- 🎨 I'm a Canva ninja
-- 🌑 Dark mode > Light mode. Always.
+
 
 ---
 
