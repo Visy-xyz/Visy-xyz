@@ -1,8 +1,12 @@
 # 👋 Hi, I'm Visy-xyz
 
+
 ### 🌐 Socials:
 ### 🌐 Socials:
-[Instagram](https://www.instagram.com/) • [Telegram](https://t.me/VisyXYZ)
+
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/visi.22_?igsh=MWttcGRnZjVlenM0NA==)
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](http://t.me/Xvisi22)
+
 
 
 ---
