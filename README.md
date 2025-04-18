@@ -55,5 +55,5 @@
 ---
 
 ### 💰 You can help me by Donating:
-<a href="buymeacoffee.com/visyy"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-F8765E?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white"/></a>  
+<a href="https://buymeacoffee.com/visyy"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-F8765E?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white"/></a>  
 
