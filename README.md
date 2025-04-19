@@ -81,5 +81,6 @@
 
 <a href="https://buymeacoffee.com/visyy"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-F8765E?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white"/></a>
 <a href="https://www.paypal.com/paypalme/my/profile" target="_blank">
-  <img src="https://img.shields.io/badge/Donate-PayPal.Me-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal.Me Button"/>
+  <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal Button"/>
 </a>
+
