@@ -1,10 +1,8 @@
-# 👋 Hi, I'm Visy (Ervis Cela)
+# 👋 Hi, I'm Visy.xyz
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;Flutter+%7C+Firebase+%7C+Next.js;Mobile+%2B+Web+App+Builder)](https://git.io/typing-svg)
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=Visy-xyz&style=flat-square&color=blue)
-![GitHub Followers](https://img.shields.io/github/followers/Visy-xyz?style=flat-square&color=blue)
-![GitHub Stars](https://img.shields.io/github/stars/Visy-xyz?style=flat-square&color=yellow)
 
 ---
 
@@ -136,27 +134,6 @@ A complete **Next.js platform** for youth forum memberships, events and communit
 ### ✨ Random Dev Quote
 
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-### 😂 Random Programming Meme
-
-![Meme](https://api.popcat.xyz/meme)
-
----
-
-### 🌀 GitHub Contribution Snake  
-
-*(Requires the `snake.yml` workflow and `output` branch to be set up)*  
-
-![Snake animation](https://raw.githubusercontent.com/Visy-xyz/Visy-xyz/output/github-contribution-grid-snake.svg)
-
----
-
-### 📡 Latest GitHub Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 ---
 
