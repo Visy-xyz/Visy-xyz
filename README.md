@@ -21,72 +21,7 @@ I build production-ready applications with clean UI, secure architectures, and r
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/visi.22_)
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](http://t.me/Xvisi22)
 
----
 
-# 🚀 Published & Production-Ready Projects
-
-## 📱 KMSh.Al – Muslim Community of Albania
-
-A complete **Flutter** application with **Firebase** backend, built for the Muslim Community of Albania.
-
-- Prayer times system  
-- Real-time announcements & news  
-- Islamic digital library (books, media)  
-- Articles, audio/video content  
-- Maps & locations  
-- Push notifications  
-
-**Android:** ✔ Published  
-👉 https://play.google.com/store/apps/details?id=com.kmshal.app  
-
-**iOS:** ⏳ *Ready for App Store – Pending Publication*  
-
----
-
-## 🚘 AutoCela – Rental Cars App
-
-A fully-featured **rental car application** built with Flutter & Firebase.
-
-- Car listings & details  
-- Booking & reservation flows  
-- Customer dashboard  
-- Firebase Authentication  
-- Firestore backend  
-- Admin tools & management  
-
-**Android:** ✔ Published  
-👉 https://play.google.com/store/apps/details?id=com.autocela.app  
-
-**iOS:** ⏳ *Ready for App Store – Not Published Yet*  
-
----
-
-## 🌐 FRMSH.al – Next.js Web Platform
-
-A complete **Next.js platform** for youth forum memberships, events and community management.
-
-- Next.js + TailwindCSS frontend  
-- Resend email automations  
-- Firebase / Firestore backend  
-- Cloudflare DNS + Vercel hosting  
-- Authentication & admin dashboard  
-- Fully responsive and fast UI  
-
-**Live Website:**  
-👉 https://frmsh.al
-
----
-
-## 🧩 Other Significant Development Work
-
-- Multi-page web dashboards  
-- Flutter UI component libraries  
-- Firebase Functions & REST APIs  
-- Photo, PDF, and media handling  
-- Cloudflare configuration & DNS setups  
-- Serverless & event-driven architectures  
-
----
 
 ## 💻 Tech Stack
 
